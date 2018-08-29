@@ -90,12 +90,3 @@ while age<6 {
 }
 
 print("\(greeting) \(name)")
-
-
-
-
-
-
-
-
-
